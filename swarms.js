@@ -343,6 +343,132 @@
     special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/drilbur.png"],
     moveset: ["Mud Sport", "Rapid Spin", "Mud-Slap", "Metal Claw", "Dig", "Hone Claws", "Slash", "Rock Slide", "Earthquake", "Swords Dance", "Sandstorm", "Drill Run", "Fissure"],
     eggMoves: ["<b>Crush Claw</b>", "<b>Earth Power</b>", "<b>Iron Defense</b>", "<b>Metal Sound</b>", "<b>Rapid Spin</b>", "<b>Rock Climb</b>", "<b>Skull Bash</b>", "<b>Submission</b>"]
+  }, {
+    name: 'Buneary',
+    gender: ["Male","Female"],
+    abilities: ["Run Away", "Klutz", "Run Away", "Klutz", "<b>Limber</b>"],
+    ha: ["<b>Limber</b>"],
+    code: 'Buneary',
+    type: ["Normal", ""],
+    tagged: ["Common", "Basic"],
+    terrain: ["Meadow"],
+    egg: ["Field", "Human-Like"],
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/buneary.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/buneary.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/buneary.png"],
+    moveset: ["Frustration", "Defense Curl", "Foresight", "Endure", "Baby-Doll Eyes", "Quick Attack", "Jump Kick", "Baton Pass", "Agility", "Dizzy Punch", "Entrainment", "Charm"],
+    eggMoves: ["<b>Fake Tears</b>", "<b>Fake Out</b>", "<b>Sweet Kiss</b>", "<b>Double Hit</b>", "<b>Low Kick</b>", "<b>Encore</b>", "<b>Sky Uppercut</b>", "<b>Ice Punch</b>", "<b>Thunder Punch</b>", "<b>Fire Punch</b>", "<b>Flail</b>", "<b>Focus Punch</b>", "<b>Circle Throw</b>", "<b>Copycat</b>", "<b>Teeter Dance</b>", "<b>Cosmic Power</b>", "<b>Mud Sport</b>", "<b>Power-Up Punch</b>"]
+  }, {
+    name: 'Lotad',
+    gender: ["Male", "Female"],
+    abilities: ["Swift Swim", "Rain Dish"],
+    ha: ["<b>Own Tempo</b>"],
+    code: 'Lotad',
+    type: ["Water", "Grass"],
+    tagged: ["Common", "Basic"],
+    terrain: ["Marsh", "Freshwater"],
+    egg: ["Water 1", "Grass"],
+    evolution: 'Lombre',
+    level: 14,
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/lotad.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/lotad.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/lotad.png"],
+    moveset: ["Astonish", "Absorb", "Bubble", "Natural Gift", "Mist", "Mega Drain", "Bubble Beam", "Nature Power", "Rain Dance", "Giga Drain", "Zen Headbutt", "Energy Ball"],
+    eggMoves: ["<b>Counter</b>", "<b>Flail</b>", "<b>Leech Seed</b>", "<b>Razor Leaf</b>", "<b>Sweet Scent</b>", "<b>Synthesis</b>", "<b>Teeter Dance</b>", "<b>Tickle</b>", "<b>Water Gun</b>"]
+  }, {
+    name: 'Skitty',
+    code: 'Skitty',
+    gender: ["Male", "Female"],
+    abilities: ["Cute Charm", "Normalize", "Normalize", "Normalize"],
+    ha: ["<b>Wonder Skin</b>"],
+    type: ["Normal", ""],
+    tagged: ["Common", "Basic"],
+    terrain: ["Urban"],
+    egg: ["Field"],
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/skitty.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/skitty.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/skitty.png"],
+    moveset: ["Fake Out", "Foresight", "Sing", "Attract", "Disarming Voice", "Double Slap", "Copycat", "Feint Attack", "Charm", "Wake-Up Slap", "Assist", "Covet", "Heal Bell", "Double Edge", "Captivate", "Play Rough"],
+    eggMoves: ["<b>Helping Hand</b>", "<b>Uproar</b>", "<b>Fake Tears</b>", "<b>Wish</b>", "<b>Baton Pass</b>", "<b>Tickle</b>", "<b>Last Resort</b>", "<b>Fake Out</b>", "<b>Zen Headbutt</b>", "<b>Sucker Punch</b>", "<b>Mud Bomb</b>", "<b>Simple Beam</b>", "<b>Captivate</b>", "<b>Cosmic Power</b>"]
+  }, {
+    name: 'Nosepass',
+    gender: ["Male","Female"],
+    abilities: ["Sturdy", "Magnet Pull"],
+    ha: ["<b>Sand Force</b>"],
+    code: 'Nosepass',
+    type: ["Rock", ""],
+    tagged: ["Common", "Basic"],
+    terrain: ["Cave", "Mountain"],
+    egg: ["Mineral"],
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/nosepass.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/nosepass.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/nosepass.png"],
+    moveset: ["Harden", "Block", "Rock Throw", "Thunder Wave", "Rest", "Spark", "Rock Slide", "Power Gem", "Rock Blast", "Discharge", "Sandstorm", "Earth Power", "Stone Edge", "Lock-On", "Zap Cannon"],
+    eggMoves: ["<b>Block</b>", "<b>Double-Edge</b>", "<b>Endure</b>", "<b>Magnitude</b>", "<b>Rollout</b>", "<b>Stealth Rock</b>", "<b>Wide Guard</b>"]
+  }, {
+    name: 'Exeggcute',
+    gender: ["Male", "Female"],
+    abilities: ["Chlorophyll"],
+    ha: ["<b>Harvest</b>"],
+    code: 'Exeggcute',
+    type: ["Grass", "Psychic"],
+    tagged: ["Common", "Basic"],
+    terrain: ["Forest", "Dragon Den"],
+    egg: ["Grass"],
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/exeggcute.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/exeggcute.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/exeggcute.png"],
+    moveset: ["Barrage", "Uproar", "Hypnosis", "Reflect", "Leech Seed", "Bullet Seed", "Stun Spore", "Poison Powder", "Sleep Powder", "Confusion", "Worry Seed", "Natural Gift", "Solar Beam", "Extrasensory"],
+    eggMoves: ["<b>Ancient Power</b>", "<b>Block</b>", "<b>Curse</b>", "<b>Giga Drain</b>", "<b>Grassy Terrain</b>", "<b>Ingrain</b>", "<b>Leaf Storm</b>", "<b>Lucky Chant</b>", "<b>Natural Gift</b>", "<b>Moonlight</b>", "<b>Nature Power</b>", "<b>Power Swap</b>", "<b>Skill Swap</b>", "<b>Synthesis</b>"]
+  }, {
+    name: 'Gossifleur',
+    gender: ["Male", "Female"],
+    abilities: ["Cotton Down", "Regenerator"],
+    ha: ["<b>Effect Spore</b>"],
+    code: 'Gossifleur',
+    type: ["Grass", ""],
+    tagged: ["Common", "Basic"],
+    terrain: ["Meadow"],
+    egg: ["Grass"],
+    evolution: 'Eldegoss',
+    level: 20,
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/gossifleur.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/gossifleur.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/gossifleur.png"],
+    moveset: [""],
+    eggMoves: ["<b>Growth</b>", "<b>Leech Seed</b>", "<b>Worry Seed</b>", "<b>Poison Powder</b>", "<b>Stun Spore</b>", "<b>Sleep Powder</b>"]
+  }, {
+    name: 'Skarmory',
+    gender: ["Male","Female"],
+    abilities: ["Keen eye", "Sturdy"],
+    ha: ["<b>Weak Armor</b>"],
+    code: 'Skarmory',
+    type: ["Steel", "Flying"],
+    tagged: ["Rare", "Basic"],
+    terrain: ["Mountain"],
+    egg: ["Flying"],
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/skarmory.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/skarmory.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/skarmory.png"],
+    moveset: ["Peck", "Sand Attack", "Air Cutter", "Metal Claw", "Fury Attack", "Feint", "Swift", "Spikes", "Agility", "Steel Wing", "Slash", "Metal Sound", "Air Slash", "Autotomize"],
+    eggMoves: ["<b>Assurance</b>", "<b>Brave Bird</b>", "<b>Curse</b>", "<b>Drill Peck</b>", "<b>Endure</b>", "<b>Guard Swap</b>", "<b>Pursuit</b>", "<b>Sky Attack</b>", "<b>Stealth Rock</b>", "<b>Whirlwind</b>"]
+  }, {
+    name: 'Torchic',
+    code: 'Torchic',
+    gender: ["Male", "Female"],
+    abilities: ["Blaze"],
+    ha: ["<b>Speed Boost</b>"],
+    type: ["", "Fire"],
+    tagged: ["Basic", "Rare"],
+    terrain: ["Volcano", "Arid"],
+    egg: ["Field"],
+    evolution: 'Combusken',
+    level: 16,
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/torchic.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/torchic.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/torchic.png"],
+    moveset: ["Ember", "Sand Attack", "Peck", "Fire Spin", "Quick Attack", "Flame Burst", "Focus Energy", "Slash", "Mirror Move", "Flamethrower"],
+    eggMoves: ["<b>Counter</b>", "<b>Reversal</b>", "<b>Endure</b>", "<b>Smelling Salts</b>", "<b>Crush Claw</b>", "<b>Baton Pass</b>", "<b>Agility</b>", "<b>Night Slash</b>", "<b>Last Resort</b>", "<b>Feint</b>", "<b>Feather Dance</b>", "<b>Curse</b>", "<b>Low Kick</b>"]
   }
 ];
 
@@ -612,6 +738,71 @@ var Evolutions = [{
     special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/excadrill.png"],
     moveset: ["Mud Sport", "Rapid Spin", "Mud-Slap", "Metal Claw", "Dig", "Hone Claws", "Slash", "Rock Slide", "Earthquake", "Swords Dance", "Sandstorm", "Horn Drill", "Fury Swipes", "Rototiller"],
     eggMoves: ["<b>Crush Claw</b>", "<b>Earth Power</b>", "<b>Iron Defense</b>", "<b>Metal Sound</b>", "<b>Rapid Spin</b>", "<b>Rock Climb</b>", "<b>Skull Bash</b>", "<b>Submission</b>"]
+  }, {
+    name: 'Lombre',
+    gender: ["Male", "Female"],
+    abilities: ["Swift Swim", "Rain Dish"],
+    ha: ["<b>Own Tempo</b>"],
+    code: 'Lombre',
+    type: ["Water", "Grass"],
+    tagged: ["Evo", "Evo1"],
+    terrain: ["Lakeside"],
+    egg: ["Water 1", "Grass"],
+    evolution: 'Ludicolo',
+    level: 45,
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/lombre.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/lombre.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/lombre.png"],
+    moveset: ["Astonish", "Absorb", "Bubble", "Fury Swipes", "Fake Out", "Water Sport", "Bubble Beam", "Nature Power", "Uproar", "Knock Off", "Zen Headbutt", "Hydro Pump"],
+    eggMoves: ["<b>Counter</b>", "<b>Flail</b>", "<b>Giga Drain</b>", "<b>Leech Seed</b>", "<b>Razor Leaf</b>", "<b>Sweet Scent</b>", "<b>Synthesis</b>", "<b>Teeter Dance</b>", "<b>Tickle</b>", "<b>Water Gun</b>"]
+  }, {
+    name: 'Eldegoss',
+    gender: ["Male", "Female"],
+    abilities: ["Cotton Down", "Regenerator"],
+    ha: ["<b>Effect Spore</b>"],
+    code: 'Eldegoss',
+    type: ["Grass", ""],
+    tagged: ["Common", "Basic"],
+    terrain: ["Meadow"],
+    egg: ["Grass"],
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/eldegoss.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/eldegoss.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/eldegoss.png"],
+    moveset: [""],
+    eggMoves: ["<b>Growth</b>", "<b>Leech Seed</b>", "<b>Worry Seed</b>", "<b>Poison Powder</b>", "<b>Stun Spore</b>", "<b>Sleep Powder</b>"]
+  }, {
+    name: 'Combusken',
+    code: 'Combusken',
+    gender: ["Male", "Female"],
+    abilities: ["Blaze"],
+    ha: ["<b>Speed Boost</b>"],
+    type: ["Fire" ,"Fighting"],
+    tagged: ["Rare", "Evo"],
+    terrain: ["Not Wild"],
+    egg: ["Field"],
+    evolution: 'Blaziken',
+    level: 36,
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/combusken.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/combusken.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/combusken.png"],
+    moveset: ["Ember", "Sand Attack", "Peck", "Fire Spin", "Quick Attack", "Flame Burst", "Focus Energy", "Slash", "Mirror Move", "Flamethrower"],
+    eggMoves: ["<b>Counter</b>", "<b>Reversal</b>", "<b>Endure</b>", "<b>Smelling Salts</b>", "<b>Crush Claw</b>", "<b>Baton Pass</b>", "<b>Agility</b>", "<b>Night Slash</b>", "<b>Last Resort</b>", "<b>Feint</b>", "<b>Feather Dance</b>", "<b>Curse</b>", "<b>Low Kick</b>"]
+  }, {
+    name: 'Blaziken',
+    code: 'Blaziken',
+    gender: ["Male", "Female"],
+    abilities: ["Blaze"],
+    ha: ["<b>Speed Boost</b>"],
+    type: ["Fire", "Fighting"],
+    tagged: ["Rare", "Evo"],
+    terrain: ["Not Wild"],
+    egg: ["Field"],
+    evolution: 'None',
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/blaziken.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/blaziken.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/blaziken.png"],
+    moveset: ["Blaze Kick", "Double Kick", "High Jump Kick", "Fire Punch", "Flare Blitz", "Blast Burn", "Brick Break", "Fire Spin", "Quick Attack", "Flame Burst", "Focus Energy", "Slash", "Mirror Move", "Flamethrower", "Dual Chop", "Thunder Punch", "Bounce", "Focus Punch", "Laser Focus"],
+    eggMoves: ["<b>Counter</b>", "<b>Reversal</b>", "<b>Endure</b>", "<b>Smelling Salts</b>", "<b>Crush Claw</b>", "<b>Baton Pass</b>", "<b>Agility</b>", "<b>Night Slash</b>", "<b>Last Resort</b>", "<b>Feint</b>", "<b>Feather Dance</b>", "<b>Curse</b>", "<b>Low Kick</b>"]
   }
   ];
   
@@ -727,6 +918,102 @@ var Evolutions = [{
     special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/clefable.png"],
     moveset: ["Spotlight", "Disarming Voice", "Sing", "Double Slap", "Minimize", "Metronome"],
     eggMoves: ["<b>Amnesia</b>", "<b>Aromatherapy</b>", "<b>Belly Drum</b>", "<b>Covet</b>", "<b>Fake Tears</b>", "<b>Heal Pulse</b>", "<b>Metronome</b>", "<b>Mimic</b>", "<b>Misty Terrain</b>", "<b>Present</b>", "<b>Splash</b>", "<b>Stored Power</b>", "<b>Tickle</b>", "<b>Wish</b>"]
+  }, {
+    name: 'Lopunny',
+    gender: ["Male","Female"],
+    abilities: ["Cute Charm", "Cute Charm", "Klutz", "<b>Limber</b>"],
+    ha: ["<b>Limber</b>"],
+    code: 'Lopunny',
+    type: ["Normal"],
+    tagged: ["Evo", "Evo1", "Rare"],
+    terrain: ["Meadow"],
+    egg: ["Human-Like", "Field"],
+    prevo: 'Buneary',
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/lopunny.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/lopunny.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/lopunny.png"],
+    moveset: ["Return", "Defense Curl", "Foresight", "Endure", "Baby-Doll Eyes", "Quick Attack", "Jump Kick", "Baton Pass", "Agility", "Dizzy Punch", "Healing Wish", "Magic Coat", "Mirror Coat", "Rototiller", "Bounce", "Charm"],
+    eggMoves: ["<b>Fake Tears</b>", "<b>Fake Out</b>", "<b>Sweet Kiss</b>", "<b>Double Hit</b>", "<b>Low Kick</b>", "<b>Encore</b>", "<b>Sky Uppercut</b>", "<b>Ice Punch</b>", "<b>Thunder Punch</b>", "<b>Fire Punch</b>", "<b>Flail</b>", "<b>Focus Punch</b>", "<b>Circle Throw</b>", "<b>Copycat</b>", "<b>Teeter Dance</b>", "<b>Cosmic Power</b>", "<b>Mud Sport</b>", "<b>Power-Up Punch</b>"]
+  }, {
+    name: 'Ludicolo',
+    gender: ["Male", "Female"],
+    abilities: ["Swift Swim", "Rain Dish"],
+    ha: ["<b>Own Tempo</b>"],
+    code: 'Ludicolo',
+    type: ["Water", "Grass"],
+    tagged: ["Evo", "Evo2"],
+    terrain: ["Lakeside"],
+    egg: ["Water 1", "Grass"],
+    prevo: 'Lotad',
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/ludicolo.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/ludicolo.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/ludicolo.png"],
+    moveset: ["Astonish", "Growl", "Mega Drain", "Nature Power", "Fury Swipes", "Fake Out", "Hydro Pump", "Giga Drain"],
+    eggMoves: ["<b>Counter</b>", "<b>Flail</b>", "<b>Leech Seed</b>", "<b>Razor Leaf</b>", "<b>Sweet Scent</b>", "<b>Synthesis</b>", "<b>Teeter Dance</b>", "<b>Tickle</b>", "<b>Water Gun</b>"]
+  }, {
+    name: 'Delcatty',
+    code: 'Delcatty',
+    gender: ["Male", "Female"],
+    abilities: ["Cute Charm", "Normalize", "Normalize", "Normalize"],
+    ha: ["<b>Wonder Skin</b>"],
+    type: ["Normal"],
+    tagged: ["Rare", "Evo", "Evo1"],
+    terrain: ["Urban"],
+    egg: ["Field"],
+    prevo: 'Skitty',
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/delcatty.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/delcatty.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/delcatty.png"],
+    moveset: ["Fake Out", "Foresight", "Sing", "Attract", "Double Slap", "Copycat", "Assist", "Wake-Up Slap"],
+    eggMoves: ["<b>Helping Hand</b>", "<b>Uproar</b>", "<b>Fake Tears</b>", "<b>Wish</b>", "<b>Baton Pass</b>", "<b>Tickle</b>", "<b>Last Resort</b>", "<b>Fake Out</b>", "<b>Zen Headbutt</b>", "<b>Sucker Punch</b>", "<b>Mud Bomb</b>", "<b>Simple Beam</b>", "<b>Captivate</b>", "<b>Cosmic Power</b>"]
+  }, {
+    name: 'Probopass',
+    gender: ["Male","Female"],
+    abilities: ["Sturdy", "Magnet Pull"],
+    ha: ["<b>Sand Force</b>"],
+    code: 'Probopass',
+    type: ["Steel", "Rock"],
+    tagged: ["Evo", "Evo1", "Rare"],
+    terrain: ["Cave", "Mountain"],
+    egg: ["Mineral"],
+    prevo: 'Nosepass',
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/probopass.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/probopass.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/probopass.png"],
+    moveset: ["Harden", "Block", "Rock Throw", "Thunder Wave", "Rest", "Spark", "Rock Slide", "Power Gem", "Rock Blast", "Discharge", "Sandstorm", "Earth Power", "Stone Edge", "Lock-On", "Zap Cannon", "Tri Attack", "Gravity", "Magnet Rise", "Magnetic Flux", "Wide Guard", "Iron Defense", "Magnet Bomb"],
+    eggMoves: ["<b>Block</b>", "<b>Double-Edge</b>", "<b>Endure</b>", "<b>Magnitude</b>", "<b>Rollout</b>", "<b>Stealth Rock</b>", "<b>Wide Guard</b>"]
+  }, {
+    name: 'Exeggutor',
+    gender: ["Male", "Female"],
+    abilities: ["Chlorophyll"],
+    ha: ["<b>Harvest</b>"],
+    code: 'Exeggutor',
+    type: ["Grass", "Psychic"],
+    tagged: ["Evo", "Evo1", "Rare"],
+    terrain: ["Forest"],
+    egg: ["Grass"],
+    prevo: 'Exeggcute',
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/exeggutor.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/exeggutor.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/exeggutor.png"],
+    moveset: ["Stomp", "Seed Bomb", "Barrage", "Hypnosis", "Confusion", "Psyshock", "Egg Bomb", "Wood Hammer", "Leaf Storm"],
+    eggMoves: ["<b>Ancient Power</b>", "<b>Block</b>", "<b>Curse</b>", "<b>Giga Drain</b>", "<b>Grassy Terrain</b>", "<b>Ingrain</b>", "<b>Leaf Storm</b>", "<b>Lucky Chant</b>", "<b>Natural Gift</b>", "<b>Moonlight</b>", "<b>Nature Power</b>", "<b>Power Swap</b>", "<b>Skill Swap</b>", "<b>Synthesis</b>"]
+  }, {
+    name: 'Exeggutor',
+    gender: ["Male", "Female"],
+    abilities: ["Frisk"],
+    ha: ["<b>Harvest</b>"],
+    code: 'Exeggutor-A',
+    type: ["Grass", "Dragon"],
+    tagged: ["Evo", "Evo1", "Very Rare"],
+    terrain: ["Dragon Den"],
+    egg: ["Grass"],
+    prevo: 'Exeggcute',
+    image: ["http://files.jcink.net/uploads/risingandfalling/BW/exeggutor_alola.png"],
+    shiny: ["http://files.jcink.net/uploads/risingandfalling/BW/shiny/exeggutor_alola.png"],
+    special: ["http://files.jcink.net/uploads/risingandfalling/BW/special/exeggutor_alola.png"],
+    moveset: ["Dragon Hammer", "Seed Bomb", "Barrage", "Hypnosis", "Confusion", "Psyshock", "Egg Bomb", "Wood Hammer", "Leaf Storm"],
+    eggMoves: ["<b>Ancient Power</b>", "<b>Block</b>", "<b>Curse</b>", "<b>Giga Drain</b>", "<b>Grassy Terrain</b>", "<b>Ingrain</b>", "<b>Leaf Storm</b>", "<b>Lucky Chant</b>", "<b>Natural Gift</b>", "<b>Moonlight</b>", "<b>Nature Power</b>", "<b>Power Swap</b>", "<b>Skill Swap</b>", "<b>Synthesis</b>"]
   }
   ];
 
@@ -758,31 +1045,28 @@ var Evolutions = [{
  
  var StoneRoll = Math.floor(Math.random() * 100) + 1;
  
- if (pokemon.name == "Vulpix" || pokemon.name == "Feebas" || pokemon.name == "Murkrow" || pokemon.name == "Snom" || pokemon.name == "Cleffa") { if (StoneRoll < 10) {
+  if (pokemon.evolution != 'None') {
+     if (Level >= pokemon.level) {
+        pokemonChoices = Evolutions.filter(function( obj ) {
+        return obj.code.includes(pokemon.evolution); });
+        pokemon = pokemonChoices[Math.floor(Math.random() * pokemonChoices.length)];
+     }  
+  }
+  
+  
+  if (pokemon.evolution != 'None') {
+     if (Level >= pokemon.level) {
+        pokemonChoices = Evolutions.filter(function( obj ) {
+        return obj.code.includes(pokemon.evolution); });
+        pokemon = pokemonChoices[Math.floor(Math.random() * pokemonChoices.length)];
+     }  
+  }
+  
+ if (pokemon.name == "Vulpix" || pokemon.name == "Feebas" || pokemon.name == "Murkrow" || pokemon.name == "Snom" || pokemon.name == "Cleffa" || pokemon.name == "Buneary" || pokemon.name == "Exeggcute" || pokemon.name == "Lombre" || pokemon.name == "Skitty" || pokemon.name == "Nosepass") { if (StoneRoll < 10) {
       pokemonChoices = StoneEvos.filter(function( obj ) {
         return obj.prevo.includes(speci); });
       pokemon = pokemonChoices[Math.floor(Math.random() * pokemonChoices.length)]; }
-      }
- 
-  
-  if (pokemon.evolution != 'None') {
-     if (Level >= pokemon.level) {
-        pokemonChoices = Evolutions.filter(function( obj ) {
-        return obj.code.includes(pokemon.evolution); });
-        pokemon = pokemonChoices[Math.floor(Math.random() * pokemonChoices.length)];
-     }  
-  }
-  
-  
-  if (pokemon.evolution != 'None') {
-     if (Level >= pokemon.level) {
-        pokemonChoices = Evolutions.filter(function( obj ) {
-        return obj.code.includes(pokemon.evolution); });
-        pokemon = pokemonChoices[Math.floor(Math.random() * pokemonChoices.length)];
-     }  
-  }
-  
-  
+      }  
  
   var Image = pokemon.image[Math.floor(Math.random() * pokemon.image.length)];
   var Gender = pokemon.gender[Math.floor(Math.random() * pokemon.gender.length)];
